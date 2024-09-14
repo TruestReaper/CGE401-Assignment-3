@@ -15,7 +15,7 @@ public class SpawnManager : MonoBehaviour
     public bool gameOver = false;
 
     private float leftBound = -14;
-    private float rightBound = -14;
+    private float rightBound = 14;
     private float spawnPosZ = 20;
 
     // Update is called once per frame
