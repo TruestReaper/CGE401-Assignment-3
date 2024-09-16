@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+John Chirayil
+Assignment 3 - Challenge 2
+Desc: This code will allow the dog
+to move alongside the ground.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
